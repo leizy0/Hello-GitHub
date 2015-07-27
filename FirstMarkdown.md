@@ -51,6 +51,7 @@ return 0;
 - [] Emoji
 ## Emoji
 Eh, amazing! But, is doge available? :doge:
+** How can I get the list of available emojis? **
 
 ## Link to someone
 @leizy0
