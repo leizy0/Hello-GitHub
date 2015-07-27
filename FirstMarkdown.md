@@ -20,7 +20,7 @@ The two most popular styles
 - *Italic*
 
 ## Images
-![GitHub Mascot](https://octodex.github.com/images/octocat.png)
+![GitHub Logo](http://f.hiphotos.baidu.com/baike/g%3D0%3Bw%3D268/sign=3c4e049cc1cec3fd9b3ea27ea1b5e609/6159252dd42a2834b1c7cf5b59b5c9ea15cebf79.jpg)
 
 ## List
 - Item1
@@ -32,26 +32,30 @@ The two most popular styles
 Six size available, it comes from html?
 
 ## Quotes
-> The quick brown fox jumps over the lazy dog
-> - Someone
+> The quick brown fox jumps over the lazy dog.  - someone
 
 ## Web Links
 [To GitHub](https://github.com)
+
 ## Code
-'''C++
+```C++
 #include <iostream>
 int main (int argc, char *argv[]){
-std::cout << "Hello, world!" << std::endl;
-return 0;
+    std::cout << "Hello, world!" << std::endl;
+    return 0;
 }
-'''
+```
+
 ## Task List
 - [x] Code
-- [] Task list
-- [] Emoji
+- [ ] Task list
+- [ ] Emoji
+
 ## Emoji
-Eh, amazing! But, is doge available? :doge:
-** How can I get the list of available emojis? **
+Eh, amazing! But, is doge available? It seems can't be used
+**How can I get the list of available emojis?**
+Yeah, I found it, [the Emoji Cheet Sheet](http://www.emoji-cheat-sheet.com/)
+:octocat: is available!
 
 ## Link to someone
 @leizy0
