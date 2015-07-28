@@ -2,6 +2,7 @@ I have used LaTeX to typeset documents in my homework and in daily life. So, the
 
 # What can Markdown do?
 There are some basic tasks that Markdown can deal with, such as:
+
 1. Change text's style
 2. Insert images stored on web
 3. List like this one
@@ -52,10 +53,7 @@ int main (int argc, char *argv[]){
 - [ ] Emoji
 
 ## Emoji
-Eh, amazing! But, is doge available? It seems can't be used
-**How can I get the list of available emojis?**
-Yeah, I found it, [the Emoji Cheet Sheet](http://www.emoji-cheat-sheet.com/)
-:octocat: is available!
+Eh, amazing! But, is doge available? It seems can't be used. **How can I get the list of available emojis?** Yeah, I found it, [the Emoji Cheet Sheet](http://www.emoji-cheat-sheet.com/), :octocat: is available!
 
 ## Link to someone
 @leizy0
